@@ -1,0 +1,8 @@
+7
+node0 fa21-cs425-g05-01.cs.illinois.edu 1000
+node1 fa21-cs425-g05-02.cs.illinois.edu 2000
+node2 fa21-cs425-g05-03.cs.illinois.edu 3000
+node4 fa21-cs425-g05-05.cs.illinois.edu 5000
+node5 fa21-cs425-g05-06.cs.illinois.edu 6000
+node6 fa21-cs425-g05-07.cs.illinois.edu 7000
+node7 fa21-cs425-g05-08.cs.illinois.edu 8000
